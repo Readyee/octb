@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+button{
+    margin-top: 3%;
+    margin: 10px;
+}
+img{
+    margin-top: 1%;
+    border: rgba(255, 166, 0, 0.596) 10px solid;
+}
